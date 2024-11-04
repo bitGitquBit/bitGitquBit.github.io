@@ -44,6 +44,7 @@ function translation(n) {
 function showMore() {
     para = document.getElementById("para1");
     para.innerHTML = `<br>Phew!! That was tough to digest, wasn't it? Sorry for being such a jerk :)<br><br>
-    Ok, time for an introduction. My name is Ahmad, and I currently study in AS.
+    Ok, time for an introduction. My name is Ahmad, and I currently study in AS.<br><br>
+    Sorry for wasting your precious time
     `;
 }
