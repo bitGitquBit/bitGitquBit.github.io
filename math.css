@@ -11,6 +11,8 @@ button {
     color: black;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
+    padding: 6px;
 }
 
 button:hover {
