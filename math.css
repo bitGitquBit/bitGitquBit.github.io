@@ -11,6 +11,11 @@ button {
     border: none;
 }
 
+button:hover {
+    background-color: #A09010;
+    color: black;
+}
+
 .fact {
     padding: 10%;
 }
